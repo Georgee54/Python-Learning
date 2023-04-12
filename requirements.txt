@@ -1,0 +1,2 @@
+beautifulsoup4
+stramlit==1.18.0
